@@ -49,7 +49,7 @@ Feel free to modify the code according to your needs and experiment with differe
 
 ## License
 
-This code is released under the [MIT License](https://opensource.org/licenses/MIT).
+This code is released under the [MIT License]([https://opensource.org/licenses/MIT](https://github.com/its-nihal-patel/FIFA-DataAnalysis/blob/main/LICENSE)).
 
 Please note that the dataset used in this code may have its own license and terms of use. Make sure to review and comply with the dataset license and terms when using the provided code.
 
