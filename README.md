@@ -31,15 +31,19 @@ To run the code and reproduce the visualizations, follow these steps:
 I have explored the data with different graphs. Some of them as follows:
 
 ## Line Plot
+![most-players-line-plot](https://github.com/its-nihal-patel/FIFA-DataAnalysis/assets/119946323/c2d130cb-638e-433c-8520-a74fd19eb5bb)
 
 ## Bar Plot
+![most-players-bar-plot](https://github.com/its-nihal-patel/FIFA-DataAnalysis/assets/119946323/2c7b5e60-e514-41a5-9888-83899ffff49e)
 
-## Hist Plot
+## Histogram
+![most-players-hist-plot](https://github.com/its-nihal-patel/FIFA-DataAnalysis/assets/119946323/7ae801a1-7a0f-46d0-a5f4-084114f411b8)
 
 ## Subplots
+![visualization](https://github.com/its-nihal-patel/FIFA-DataAnalysis/assets/119946323/0bfb85c5-ae7c-4119-a2ce-fb9e35178e2d)
 
 ## Plot with Legend
-
+![top5-highest-rated-defending](https://github.com/its-nihal-patel/FIFA-DataAnalysis/assets/119946323/e2aea6cd-7b43-4bbb-98d6-c53032b1db12)
 
 Feel free to modify the code according to your needs and experiment with different analyses and visualizations based on the FIFA player data.
 
